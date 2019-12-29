@@ -4,3 +4,7 @@ storybook-static
 .editorconfig
 .eslintrc
 .npmignore
+src
+.babelrc
+.gitignore
+webpack.config.js
